@@ -13,7 +13,7 @@ public class DemoApplication {
 	@GetMapping("/")
 	@ResponseBody
 	String home() {
-		return "Demo 7COM1025";
+		return "7COM1025 New Message";
 	}
 
 	public static void main(String[] args) {
